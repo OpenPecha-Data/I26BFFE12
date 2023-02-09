@@ -1,0 +1,16 @@
+id: I26BFFE12
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:46:46.118299
+last_modified: 2023-02-09 14:46:46.118398
+source_metadata:
+  title: 'PP: Prajñāpāramitāhṛdaya'
+  language: zh
+bases:
+  48D1:
+    base_file: 48D1.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
